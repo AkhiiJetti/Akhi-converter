@@ -1,23 +1,15 @@
 {
-  "name": "akhi-converter",
+  "name": "glarimy-converter",
   "version": "1.0.0",
-  "description": "A sample devops workshop",
-  "homepage": "https://github.com/AkhiiJetti/Akhi-converter#readme",
-  "bugs": {
-    "url": "https://github.com/AkhiiJetti/Akhi-converter/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AkhiiJetti/Akhi-converter.git"
-  },
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
+  "description": "A small tool to convert INR to USD",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+  "start": "node index.js",
+  "test": "jest"
+ },
+ "author": "",
+ "license": "ISC",
+ "devDependencies": {
+ "jest": "^29.7.0"
+ }
 }
